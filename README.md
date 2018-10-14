@@ -14,7 +14,7 @@ The input image is a bubble sheet with 5 questions with each question having 5 o
 This application can be used to scan different type of documents, like Exam grading sheets, Grocery Shopping Receipts, Notes, interpret them as required and save them in a desirable file format like PDF, JPG, PNG, etc.
 
 ## Code Requirements
-The example code is in Python (version 2.7 or higher will work).
+This code is in Python (version 2.7 or higher will work). The Jupyter Notebook details the code with appropriate comments to implement the application logic.
 
 ## Dependencies
 - import numpy
