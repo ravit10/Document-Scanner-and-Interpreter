@@ -22,5 +22,5 @@ The example code is in Python (version 2.7 or higher will work).
 - import immutils
 
 ## Working Demo
-![alt text](https://github.com/ravit10/Document-Scanner-and-Interpreter/blob/master/images/input/input_image.png)
+![alt text](https://github.com/ravit10/Document-Scanner-and-Interpreter/blob/master/images/input/input_image.png "Input Bubble Document")
 ![alt text](https://github.com/ravit10/Document-Scanner-and-Interpreter/blob/master/images/output/Final%20Result.JPG "Scanned Interpreted Results")
