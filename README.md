@@ -3,7 +3,6 @@ A computer vision application that implements Optical Mark Recognition (OMR) by 
 
 ## Input Image
 The input image is a bubble sheet with 5 questions with each question having 5 options (A, B, C, D, E) of which only 1 is the correct answer. A pencil is used to mark the “bubble” that corresponds to the correct answer.
-![alt text](https://github.com/ravit10/Document-Scanner-and-Interpreter/blob/master/images/input_image.png "Input Bubble Document")
 
 ## Computer Vision Techniques involved:
 - Edge Detection
@@ -11,13 +10,17 @@ The input image is a bubble sheet with 5 questions with each question having 5 o
 - Perspective Transform
 - Thresholding
 
-## Applications:
+## Applications
 This application can be used to scan different type of documents, like Exam grading sheets, Grocery Shopping Receipts, Notes, interpret them as required and save them in a desirable file format like PDF, JPG, PNG, etc.
 
-## Code Requirements:
+## Code Requirements
 The example code is in Python (version 2.7 or higher will work).
 
-## Dependencies:
+## Dependencies
 - import numpy
 - import cv2
 - import immutils
+
+## Working Demo
+![alt text](https://github.com/ravit10/Document-Scanner-and-Interpreter/blob/master/images/input/input_image.png)
+![alt text](https://github.com/ravit10/Document-Scanner-and-Interpreter/blob/master/images/output/Final%20Result.JPG "Scanned Interpreted Results")
