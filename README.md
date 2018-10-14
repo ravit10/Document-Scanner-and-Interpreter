@@ -3,6 +3,7 @@ A computer vision application that implements Optical Mark Recognition (OMR) by 
 
 ## Input Image
 The input image is a bubble sheet with 5 questions with each question having 5 options (A, B, C, D, E) of which only 1 is the correct answer. A pencil is used to mark the “bubble” that corresponds to the correct answer.
+![alt text](https://github.com/ravit10/Document-Scanner-and-Interpreter/blob/master/images/input_image.png "Input Bubble Document")
 
 ## Computer Vision Techniques involved:
 - Edge Detection
